@@ -1,7 +1,8 @@
-# Hey 👋, I’m David.
+# Hey 👋, I’m David
 
 CS student. Exploring backend development and software-hardware systems.
 
 ## Tools & Tech
-Python | Java | JavaScript | HTML | CSS | Git  
-OOP | Data Structures & Algorithms
+**Languages:** Python | Java | JavaScript | HTML | CSS  
+**Core Concepts & Tools:** Git | OOP | Data Structures & Algorithms
+
