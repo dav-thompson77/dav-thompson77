@@ -1,6 +1,6 @@
 # Hey 👋, I’m David
 
-Computer Science student. Exploring backend development and software-hardware systems.
+Computer Science student building, learning, and improving every day.
 
 ## Tools & Tech
 **Languages:** Python | Java | JavaScript | HTML | CSS  
