@@ -2,7 +2,7 @@
 
 Computer Science student building, learning, and improving every day.
 
-## Tools & Tech
-**Languages:** Python | Java | JavaScript | HTML | CSS  
-**Core Concepts & Tools:** Git | OOP | Data Structures & Algorithms
-
+## Tech Stack
+**Languages:** Python | JavaScript | TypeScript | Java | HTML/CSS  
+**Frameworks:** React | Next.js | FastAPI | Node.js | Tailwind CSS  
+**Cloud & Tools:** Azure | Git | PostgreSQL | Supabase | Docker 
