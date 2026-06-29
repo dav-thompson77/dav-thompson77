@@ -1,6 +1,8 @@
 # Hey 👋, I’m David
 
-Computer Science Student @ UWI Mona | Software Engineer Intern @ Jamaica Artificial Intelligence Association
+Computer Science Student @ UWI Mona<br>
+Software Developer Intern @ Particular Presence Technologies<br>
+Software Engineer Intern @ Jamaica Artificial Intelligence Association
 
 Building, learning and improving every day.
 
